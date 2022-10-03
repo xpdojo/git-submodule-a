@@ -1,0 +1,3 @@
+[submodule "git-submodule-b"]
+	path = git-submodule-b
+	url = git@github.com:xpdojo/git-submodule-b.git
